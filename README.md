@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions **strictly from the Agentic AI eBook**. Built with **LangGraph**, **Pinecone**, **Google Gemini**, and **FastAPI / Streamlit**.
 
-**Live demo:** `<https://mohithkumarvemuri-appening-rag-chatbot-streamlit-app-mvxas0.streamlit.app/>`
+**Live demo:** `https://mohithkumarvemuri-appening-rag-chatbot-streamlit-app-mvxas0.streamlit.app/`
 
 Every response returns:
 1. The generated answer
